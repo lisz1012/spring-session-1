@@ -1,0 +1,10 @@
+spring:
+  redis:
+    host: redis-1
+    port: 6379
+  security:
+    user:
+      name: 123
+      password: 123
+server:
+  port: 82
